@@ -1,0 +1,6 @@
+{
+  "name": "File to JSON Converter",
+  "description": "Convert PDF and photo files to JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
